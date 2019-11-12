@@ -2,6 +2,7 @@
   "name": "k-theme004-react",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://kdevsoftware.github.io/k-theme004-react",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.11.0",
